@@ -1,4 +1,4 @@
-# gin早web服务中http处理和websocket处理怎么共用一个端口程序写法
+# gin在web服务中http处理和websocket处理怎么共用一个端口程序写法
 In a Gin web server, you can handle both HTTP and WebSocket requests on the same port by using the github.com/gin-gonic/gin package and the github.com/gorilla/websocket package.
 
 Here's an example of how you can handle both HTTP and WebSocket requests on the same port:
